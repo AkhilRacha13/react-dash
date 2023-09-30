@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-dash/static/css/main.e6c13ad2.css",
+    "main.js": "/react-dash/static/js/main.18acd9e7.js",
+    "static/js/787.d896b3df.chunk.js": "/react-dash/static/js/787.d896b3df.chunk.js",
+    "index.html": "/react-dash/index.html",
+    "main.e6c13ad2.css.map": "/react-dash/static/css/main.e6c13ad2.css.map",
+    "main.18acd9e7.js.map": "/react-dash/static/js/main.18acd9e7.js.map",
+    "787.d896b3df.chunk.js.map": "/react-dash/static/js/787.d896b3df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.18acd9e7.js"
+  ]
+}
